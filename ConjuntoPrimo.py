@@ -9,9 +9,8 @@ caso contrário, retorne 0. Por exemplo: se num for 910, a saída deve ser 1 por
 """Meus comentários sobre:
     O problema mais difícil que já resolvi até a de postagem deste arquivo no repositório, eu demorei mais ou menos 
     umas 9 horas para conclui-lo. Não há nada de novidade nele, com as ferramentas básicas do python e algumas 
-    funções da biblioteca random é possível resolve-lo, o mais demorado foi construir uma lógica que funcione para
-    qualquer quantia de casas decimais e qualquer número natural maior que zero.
-
+    funções da biblioteca random é possível resolve-lo, o mais demorado foi construir uma lógica que possa ser usada 
+    para qualquer número natual maior que zero.
 """
 import random
 
