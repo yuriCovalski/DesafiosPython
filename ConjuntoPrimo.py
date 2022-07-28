@@ -10,7 +10,7 @@ caso contrário, retorne 0. Por exemplo: se num for 910, a saída deve ser 1 por
     O problema mais difícil que já resolvi até a de postagem deste arquivo no repositório, eu demorei mais ou menos 
     umas 9 horas para conclui-lo. Não há nada de novidade nele, com as ferramentas básicas do python e algumas 
     funções da biblioteca random é possível resolve-lo, o mais demorado foi construir uma lógica que possa ser usada 
-    para qualquer número natual.
+    para qualquer número nartual.
 """
 import random
 
